@@ -1,5 +1,6 @@
 {
-  "name": "tech-analysis",
+  "name": "@sa-tools/tech-analysis",
+  "description": "Technical Analysis, for Candles",
   "scripts": {
     "build": "npx projen build",
     "bump": "npx projen bump",
@@ -19,6 +20,12 @@
     "upgrade": "npx projen upgrade",
     "watch": "npx projen watch",
     "projen": "npx projen"
+  },
+  "author": {
+    "name": "Yadav, Sunil",
+    "email": "atworksunil@gmail.com",
+    "url": "https://ysunil016.github.io/",
+    "organization": false
   },
   "devDependencies": {
     "@types/jest": "^29.5.1",
@@ -40,6 +47,10 @@
   },
   "main": "lib/index.js",
   "license": "Apache-2.0",
+  "homepage": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.0.0",
   "jest": {
     "testMatch": [
