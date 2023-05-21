@@ -1,5 +1,5 @@
 {
-  "name": "@sa-tools/tech-analysis",
+  "name": "@sa-kit/tech-analysis",
   "description": "Technical Analysis, for Candles",
   "repository": {
     "type": "git",
