@@ -11,9 +11,9 @@ const project = new typescript.TypeScriptProject({
   deps: [], /* Runtime dependencies of this module. */
   description: 'Technical Analysis, for Candles', /* The description is just a string that helps people understand the purpose of the package. */
   devDeps: [], /* Build dependencies for this module. */
-  homepage: '',
+  homepage: 'https://github.com/Ysunil016/tech-analysis',
   npmAccess: NpmAccess.PUBLIC,
-  repository: '',
+  repository: 'https://github.com/Ysunil016/tech-analysis',
 });
 
 project.synth();
