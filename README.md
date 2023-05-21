@@ -1,1 +1,1 @@
-# Technical Analysis for Stock Market Candles
+## Technical Analysis for Stock Market Candles
