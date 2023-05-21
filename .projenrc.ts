@@ -7,7 +7,7 @@ const project = new typescript.TypeScriptProject({
   authorName: 'Yadav, Sunil',
   authorEmail: 'atworksunil@gmail.com',
   authorUrl: 'https://ysunil016.github.io/',
-  packageName: '@sa-kit/tech-analysis',
+  packageName: '@ta-kit/tech-analysis',
   deps: [], /* Runtime dependencies of this module. */
   description: 'Technical Analysis, for Candles', /* The description is just a string that helps people understand the purpose of the package. */
   devDeps: [], /* Build dependencies for this module. */
